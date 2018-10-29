@@ -9,9 +9,7 @@ This project is developing software that guides users
 through data analysis related to a bikeshare program.
 
 ### Files used
-bikeshare_2.py
-README.md
-.gitignore
+bikeshare_2.py, README.md, .gitignore
 
 ### Credits
 This project was forked from another project at:
