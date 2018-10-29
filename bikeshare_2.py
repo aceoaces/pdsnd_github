@@ -82,8 +82,10 @@ def get_day():
              'Friday', 'Saturday', 'Sunday', 'None']
 
     if day_of_week not in weeks:
-        print('\nI\'m sorry, I\'m not sure which day of the week\n'
-              'you\'re trying to filter by. Let\'s try again.')
+        print("\nI\'m sorry, I\'m not sure which day of the week\n'
+              'you\'re trying to filter by. Let\'s try again.  The options are
+              'Monday', 'Tuesday', 'Wednesday', 'Thursday',
+              'Friday', 'Saturday', 'Sunday', or 'None'")
         return get_day()
     else:
         return day_of_week
