@@ -10,9 +10,6 @@ through data analysis related to a bikeshare program.
 
 ### Files used
 bikeshare_2.py
-chicago.csv
-new_york_city.csv
-washington.csv
 
 ### Credits
 This project was forked from another project at:
