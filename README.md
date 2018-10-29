@@ -1,15 +1,22 @@
 ### Date created
-Include the date you created this project and README file.
+28 Oct 2018
 
 ### Project Title
-Replace the Project Title
+Bikeshare Data
 
 ### Description
-Describe what your project is about and what it does
+This project is developing software that guides users through data analysis
+related to a bikeshare program.
 
 ### Files used
-Include the files used
+bikeshare_2.py
+chicago.csv
+new_york_city.csv
+washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+This project was forked from another project at:
+https://github.com/udacity/pdsnd_github
 
+All of the bikeshare files are from the Udacity Programming for Data Science
+Nanodegree Program at: https://classroom.udacity.com/nanodegrees/nd104
